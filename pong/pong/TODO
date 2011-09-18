@@ -1,0 +1,14 @@
+
+Core:
+1.  read in texture and map it to a polygon
+2.  convert board from lines to a textured rectangle
+3.  texture paddles
+4.  refactor game logic so that we can choose 1 or 2 player modes
+5.  implement AI for single player
+6.  let mouse input be used to control 1st player paddle
+7.  where the ball hits the paddle modifies the balls course
+
+Extra Credit/for fun:
+8.  particle system/ shader effect for something fun maybe when ball is moving fast it glows or something
+9.  display score via on screen numbers (textures)
+?  
